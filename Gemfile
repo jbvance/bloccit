@@ -30,3 +30,6 @@ source 'https://rubygems.org'
 
  #bootstrap-sass
  gem 'bootstrap-sass'
+
+ # Used for encrypting User passwords
+ gem 'bcrypt'
